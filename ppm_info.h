@@ -1,5 +1,3 @@
-
-
 #ifndef PPM_INFO
 #define PPM_INFO
 
