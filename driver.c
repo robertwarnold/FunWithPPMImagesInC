@@ -1,9 +1,3 @@
-/*************************
- *Robert Arnold
- *CPSC 2311 - 005
- *Spring 22
- *rwarnol@clemson.edu
- *************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include "ppm.h"
